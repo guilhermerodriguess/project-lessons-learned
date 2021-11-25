@@ -1,33 +1,61 @@
 body {
     margin: 0px;
     background-color: rgb(253, 251, 251);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 header {
     top: 0;
     position:fixed ;
     border: 1px solid black;
-    width: 1847px;
+    width: 100%;
     text-align: center;
     background-color: #216e39;
     color: white;
 }
 
 .sub-header {
-    margin-top: 81px; 
+    margin-top: 4%; 
 }
 
 #minha_foto {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding: 1px;
+    padding: 1%;
+}
 
+.link {
+    text-align: center;
 }
 
 section {
     border: 1px solid black;
 }
 #minha_foto {
-    width: 200px;
+    width: 20%;
+}
+
+p {
+    text-indent: 5%;
+    font-size: 150%;
+    line-height: 100%;
+}
+
+li {
+    font-size: 150%;
+}
+
+.lado-esquerdo h1, .lado-direito h1{
+    font-size: 200%;
+    text-align: center;
+    margin: 0;
+}
+.lado-esquerdo, .lado-direito {
+    display: inline-block;
+    
+}
+
+.lado-direito {
+    width: ;
 }
