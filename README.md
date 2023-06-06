@@ -1,43 +1,42 @@
 # Lessons Learned
 
-O projeto Lessons Learned é um site que reúne uma série de informações sobre o que foi aprendido durante os três blocos do curso na Trybe. O site foi desenvolvido com o objetivo de apresentar elementos posicionados e estilizados, além de garantir uma semântica apropriada para melhorar a acessibilidade e o ranqueamento nos mecanismos de busca.
+The Lessons Learned project is a website that brings together a series of information about what was learned during the three blocks of the course at Trybe. The site was developed with the aim of presenting positioned and stylized elements, in addition to ensuring appropriate semantics to improve accessibility and ranking in search engines.
 
-Neste projeto, foram utilizadas as seguintes tecnologias:
+In this project, the following technologies were used:
 
-- **HTML:** O HTML foi utilizado para construir as páginas web do site, permitindo a estruturação e organização do conteúdo.
+- **HTML:** HTML was used to build the web pages of the site, allowing the structure and organization of the content.
 
-- **HTML semântico:** Foi aplicado o conceito de HTML semântico para tornar as páginas mais acessíveis e otimizar o ranqueamento nos mecanismos de busca.
+- **Semantic HTML:** The concept of semantic HTML was applied to make pages more accessible and optimize ranking in search engines.
 
-- **CSS:** O CSS foi utilizado para adicionar estilo ao site e posicionar os elementos de forma adequada.
+- **CSS:** CSS was used to add style to the site and position elements properly.
 
-Esse projeto é uma excelente oportunidade para praticar as habilidades em desenvolvimento web e aplicar os conceitos aprendidos ao longo do curso.
+This project is an excellent opportunity to practice web development skills and apply the concepts learned throughout the course.
 
-## Instruções de Instalação
+## Installation Instructions
 
-Para começar a utilizar o projeto Lessons Learned, siga as etapas abaixo:
+To start using the Lessons Learned project, follow the steps below:
 
-1. Clone o repositório usando o seguinte comando no seu terminal:
+1. Clone the repository using the following command in your terminal:
 
    ```
    git clone git@github.com:guilhermerodriguess/project-lessons-learned.git
    ```
 
-2. Navegue até o diretório do projeto:
+2. Navigate to the project directory:
 
    ```
    cd project-lessons-learned
    ```
 
-3. Execute o seguinte comando para instalar as dependências necessárias:
+3. Run the following command to install the required dependencies:
 
    ```
    npm install
    ```
-## Considerações Finais
+## Final considerations
 
-Obrigado por explorar o projeto Lessons Learned! Espero que ele seja útil para você em seu aprendizado e prática de desenvolvimento web. Sinta-se à vontade para explorar o código, fazer modificações e adaptá-lo às suas necessidades.
+Thanks for exploring the Lessons Learned project! I hope it will be useful for you in your web development learning and practice. Feel free to explore the code, make modifications and adapt it to your needs.
 
-Se você tiver alguma dúvida, sugestão ou problema com o projeto, não hesite em abrir uma issue ou entrar em contato. Seu feedback é sempre bem-vindo!
+If you have any questions, suggestions or problems with the project, don't hesitate to open an issue or get in touch. Your feedback is always welcome!
 
-Divirta-se explorando e continuando a aprimorar suas habilidades em desenvolvimento web!
-
+Have fun exploring and continuing to hone your web development skills!
