@@ -27,12 +27,9 @@ To start using the Lessons Learned project, follow the steps below:
    ```
    cd project-lessons-learned
    ```
+3. Open the `index.html` file in your preferred browser.
 
-3. Run the following command to install the required dependencies:
 
-   ```
-   npm install
-   ```
 ## Final considerations
 
 Thanks for exploring the Lessons Learned project! I hope it will be useful for you in your web development learning and practice. Feel free to explore the code, make modifications and adapt it to your needs.
